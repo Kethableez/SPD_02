@@ -1,0 +1,12 @@
+Amadeusz Janiszyn 249013										26.03.2021
+
+Teoretyczny opis algorytmu dynamicznego programowania:
+
+Algorytm programowania dynamicznego opiera siê na zasadzie rozwi¹zywania
+podproblemów i zapamiêtywaniu wyników tych podproblemów. 
+Programowanie dynamiczne jest podobne do algorytmu "Dziel i zwyciê¿aj",
+poniewa¿ oba algorytmy dzia³aj¹ na zasadzie rozwi¹zywania podproblemów,
+lecz algorytm programowania dynamicznego zapamiêtuje podproblemy, i w 
+przypadku trafienia na ten sam podproblem, algorytm nie rozwi¹zuje go
+ponownie co skraca czas oraz zmniejsza zu¿ycie zasobów potrzebnych na
+rozwi¹zanie problemu.
